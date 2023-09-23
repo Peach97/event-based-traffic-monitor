@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.collective.rss.RSSTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-08-22T19:03:45" hostname="PEACHBOOK" time="0.244">
+  <properties/>
+  <testcase name="rss" classname="test.collective.rss.RSSTest" time="0.244"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
